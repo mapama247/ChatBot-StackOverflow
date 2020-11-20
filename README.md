@@ -4,7 +4,9 @@ Dialog system built as the final project of the Natural Language Processing [cou
 
 The goal was to develop a StackOverflow Assistant able to answer programming-related questions and hold conversations on random topics. For the “chit-chat mode”, the conversational bot uses a pre-trained neural network engine called [ChatterBot](https://github.com/gunthercox/ChatterBot), which ranks Twitter replicas by their relevance.
 
-FILE | DESCRIPTION
+## Files
+
+NAME | DESCRIPTION
 ------------ | -------------
 *programming_assistant.py* | Main code
 *utils.py* | Auxiliary functions
@@ -13,7 +15,7 @@ FILE | DESCRIPTION
 *tagged_posts.tsv* | StackOverflow posts, tagged with one programming language (positive samples). Original file: [source](https://github.com/hse-aml/natural-language-processing/releases/download/project/tagged_posts.tsv)
 *starspace_embeddings.tsv* | Word embeddings trained with StarSpace for the task of finding duplicate questions on StackOverflow. The embeddings were trained using duplicates with high similarity as “positive” examples and randomly selected questions (low similarity assumed) as “negative” examples. Splitted in two parts and compressed due to space issues (uncompress and join them into "*starspace_embeddings.tsv*").
 
-## Execution example:
+## Execution example
 
 Q: Hey<br/>
 A: Hi 
