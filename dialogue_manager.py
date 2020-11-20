@@ -32,7 +32,7 @@ class DialogueManager(object):
         self.intent_recognizer = unpickle_file(paths['INTENT_RECOGNIZER'])
         self.tfidf_vectorizer = unpickle_file(paths['TFIDF_VECTORIZER'])
 
-        self.ANSWER_TEMPLATE = 'I think its about %s\nThis thread might help you: https://stackoverflow.com/questions/%s'
+        self.ANSWER_TEMPLATE = 'This thread might help you: https://stackoverflow.com/questions/%s'
 
         # Goal-oriented part:
         self.tag_classifier = unpickle_file(paths['TAG_CLASSIFIER'])
@@ -74,4 +74,4 @@ class DialogueManager(object):
             # Pass prepared_question to thread_ranker to get predictions.
             thread_id = self.thread_ranker.get_best_thread(question, tag)[0]
 
-            return self.ANSWER_TEMPLATE % (tag, thread_id)
+            return self.ANSWER_TEMPLATE % (thread_id)
