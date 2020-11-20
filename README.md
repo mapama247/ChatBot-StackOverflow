@@ -12,3 +12,35 @@ FILE | DESCRIPTION
 *dialogues.tsv* | Dialogue phrases from movie subtitles (used as negative samples). [source](https://github.com/hse-aml/natural-language-processing/releases/download/project/dialogues.tsv)
 *tagged_posts.tsv* | StackOverflow posts, tagged with one programming language (positive samples). Original file: [source](https://github.com/hse-aml/natural-language-processing/releases/download/project/tagged_posts.tsv)
 *starspace_embeddings.tsv* | Word embeddings trained with StarSpace for the task of finding duplicate questions on StackOverflow. The embeddings were trained using duplicates with high similarity as “positive” examples and randomly selected questions (low similarity assumed) as “negative” examples. Splitted in two parts and compressed due to space issues (uncompress and join them into "*starspace_embeddings.tsv*").
+
+## Execution example:
+
+Q: Hey
+A: Hi 
+
+Q: How are you doing?
+A: I am doing well. 
+
+Q: What's your hobby?
+A: Playing Soccer, Painting, Writing are my hobbies.How about you? 
+
+Q: How to write a loop in python?
+A: This thread might help you: https://stackoverflow.com/questions/26736277 
+
+Q: How to delete rows in pandas?
+A: This thread might help you: https://stackoverflow.com/questions/24612584 
+
+Q: python3 re
+A: This thread might help you: https://stackoverflow.com/questions/10769394 
+
+Q: What is the difference between c and c++
+A: This thread might help you: https://stackoverflow.com/questions/25180069 
+
+Q: Multithreading in Java
+A: This thread might help you: https://stackoverflow.com/questions/8318 
+
+Q: Catch exceptions C++
+A: This thread might help you: https://stackoverflow.com/questions/336475 
+
+Q: What is AI?
+A: Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
