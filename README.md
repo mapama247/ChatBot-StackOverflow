@@ -16,31 +16,31 @@ FILE | DESCRIPTION
 ## Execution example:
 
 Q: Hey
-A: Hi 
+\nA: Hi 
 
 Q: How are you doing?
-A: I am doing well. 
+\nA: I am doing well. 
 
 Q: What's your hobby?
-A: Playing Soccer, Painting, Writing are my hobbies.How about you? 
+\nA: Playing Soccer, Painting, Writing are my hobbies.How about you? 
 
 Q: How to write a loop in python?
-A: This thread might help you: https://stackoverflow.com/questions/26736277 
+\nA: This thread might help you: https://stackoverflow.com/questions/26736277 
 
 Q: How to delete rows in pandas?
-A: This thread might help you: https://stackoverflow.com/questions/24612584 
+\nA: This thread might help you: https://stackoverflow.com/questions/24612584 
 
 Q: python3 re
-A: This thread might help you: https://stackoverflow.com/questions/10769394 
+\nA: This thread might help you: https://stackoverflow.com/questions/10769394 
 
 Q: What is the difference between c and c++
-A: This thread might help you: https://stackoverflow.com/questions/25180069 
+\nA: This thread might help you: https://stackoverflow.com/questions/25180069 
 
 Q: Multithreading in Java
-A: This thread might help you: https://stackoverflow.com/questions/8318 
+\nA: This thread might help you: https://stackoverflow.com/questions/8318 
 
 Q: Catch exceptions C++
-A: This thread might help you: https://stackoverflow.com/questions/336475 
+\nA: This thread might help you: https://stackoverflow.com/questions/336475 
 
 Q: What is AI?
-A: Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+\nA: Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
