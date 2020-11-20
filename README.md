@@ -29,6 +29,9 @@ A: Playing Soccer, Painting, Writing are my hobbies.How about you?
 Q: How to write a loop in python?<br/>
 A: This thread might help you: https://stackoverflow.com/questions/26736277 
 
+Q: How to empty workspace in r studio?<br/>
+A: This thread might help you: https://stackoverflow.com/questions/25841549 
+
 Q: How to delete rows in pandas?<br/>
 A: This thread might help you: https://stackoverflow.com/questions/24612584 
 
@@ -38,11 +41,23 @@ A: This thread might help you: https://stackoverflow.com/questions/10769394
 Q: What is the difference between c and c++<br/>
 A: This thread might help you: https://stackoverflow.com/questions/25180069 
 
+Q: How to make histogram with matplotlib<br/>
+A: This thread might help you: https://stackoverflow.com/questions/8369584 
+
 Q: Multithreading in Java<br/>
 A: This thread might help you: https://stackoverflow.com/questions/8318 
 
 Q: Catch exceptions C++<br/>
 A: This thread might help you: https://stackoverflow.com/questions/336475 
 
+Q: How to transpose hashmap?<br/>
+A: This thread might help you: https://stackoverflow.com/questions/2941997 
+
+Q: Initialize empty vector numpy<br/>
+A: This thread might help you: https://stackoverflow.com/questions/25276965 
+
+Q: What language do you prefer?<br/>
+A: I use Python, Java and C++ quite often. 
+
 Q: What is AI?<br/>
-A: Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+A: Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think. 
