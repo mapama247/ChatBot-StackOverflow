@@ -43,7 +43,7 @@ def intent_classifier(X, y, test_pctg=0.1, random_state=0):
     clf = LogisticRegression(C=10, penalty='l2', random_state=0, max_iter=1000)
     clf.fit(X_train_tfidf, y_train)
     pred = clf.predict(X_test_tfidf)
-    print('Test accuracy = {}'.format(accuracy_score(y_test,pred))) # around 0.9
+    print('Test accuracy = {}'.format(accuracy_score(y_test,pred))) # around 0.99
     return clf
 
 def language_classifier(X, y, test_pctg=0.2, random_state=0):
