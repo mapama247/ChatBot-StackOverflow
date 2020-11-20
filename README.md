@@ -9,6 +9,6 @@ FILE | DESCRIPTION
 *programming_assistant.py* | Main code
 *utils.py* | Auxiliary functions
 *dialogue_manager.py* | Creates an instance of the ChatBot and trains it to generate the best answer to any question
-*dialogues.tsv* | Dialogue phrases from movie subtitles (used as negative samples).
+*dialogues.tsv* | Dialogue phrases from movie subtitles (used as negative samples). Original file: [source](https://github.com/hse-aml/natural-language-processing/releases/download/project/dialogues.tsv)
 *tagged_posts.tsv* | StackOverflow posts, tagged with one programming language (positive samples). Original file: [source](https://github.com/hse-aml/natural-language-processing/releases/download/project/tagged_posts.tsv)
 *starspace_embeddings.tsv* | Word embeddings trained with StarSpace for the task of finding duplicate questions on StackOverflow. The embeddings were trained using duplicates with high similarity as “positive” examples and randomly selected questions (low similarity assumed) as “negative” examples. Splitted in two parts and compressed due to space issues (uncompress and join them into "*starspace_embeddings.tsv*").
