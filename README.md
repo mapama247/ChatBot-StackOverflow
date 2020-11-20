@@ -38,14 +38,8 @@ A: This thread might help you: https://stackoverflow.com/questions/24612584
 Q: python3 re<br/>
 A: This thread might help you: https://stackoverflow.com/questions/10769394 
 
-Q: What is the difference between c and c++<br/>
-A: This thread might help you: https://stackoverflow.com/questions/25180069 
-
 Q: How to make histogram with matplotlib<br/>
 A: This thread might help you: https://stackoverflow.com/questions/8369584 
-
-Q: Multithreading in Java<br/>
-A: This thread might help you: https://stackoverflow.com/questions/8318 
 
 Q: Catch exceptions C++<br/>
 A: This thread might help you: https://stackoverflow.com/questions/336475 
