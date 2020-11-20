@@ -15,32 +15,32 @@ FILE | DESCRIPTION
 
 ## Execution example:
 
-Q: Hey
-\nA: Hi 
+Q: Hey<br/>
+A: Hi 
 
-Q: How are you doing?
-\nA: I am doing well. 
+Q: How are you doing?<br/>
+A: I am doing well. 
 
-Q: What's your hobby?
-\nA: Playing Soccer, Painting, Writing are my hobbies.How about you? 
+Q: What's your hobby?<br/>
+A: Playing Soccer, Painting, Writing are my hobbies.How about you? 
 
-Q: How to write a loop in python?
-\nA: This thread might help you: https://stackoverflow.com/questions/26736277 
+Q: How to write a loop in python?<br/>
+A: This thread might help you: https://stackoverflow.com/questions/26736277 
 
-Q: How to delete rows in pandas?
-\nA: This thread might help you: https://stackoverflow.com/questions/24612584 
+Q: How to delete rows in pandas?<br/>
+A: This thread might help you: https://stackoverflow.com/questions/24612584 
 
-Q: python3 re
-\nA: This thread might help you: https://stackoverflow.com/questions/10769394 
+Q: python3 re<br/>
+A: This thread might help you: https://stackoverflow.com/questions/10769394 
 
-Q: What is the difference between c and c++
-\nA: This thread might help you: https://stackoverflow.com/questions/25180069 
+Q: What is the difference between c and c++<br/>
+A: This thread might help you: https://stackoverflow.com/questions/25180069 
 
-Q: Multithreading in Java
-\nA: This thread might help you: https://stackoverflow.com/questions/8318 
+Q: Multithreading in Java<br/>
+A: This thread might help you: https://stackoverflow.com/questions/8318 
 
-Q: Catch exceptions C++
-\nA: This thread might help you: https://stackoverflow.com/questions/336475 
+Q: Catch exceptions C++<br/>
+A: This thread might help you: https://stackoverflow.com/questions/336475 
 
-Q: What is AI?
-\nA: Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+Q: What is AI?<br/>
+A: Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
